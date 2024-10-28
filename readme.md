@@ -12,7 +12,7 @@ where you find all necessary scripts to reproduce that figure or table.<br>
 `01_data_processing` folder contains the script to extract TCGA expression
 and survival info to build survival-expression tables. <br>
 
-Repository contains only scripts, while data is stored in the ws.
+Repository contains only scripts, while data is stored in the ws at `/hpcnfs/data/MS/survival_expression_project.tar.gz`.
 If the script needs to be run in the workstation (old or new), you will find 
 a comment at the beginning of the script.<br>
 
